@@ -2,6 +2,8 @@
 ☕ Java Program
 📌 About the Project
 
+Link: https://github.com/lipavec9/Reposit1/blob/main/Naloga7.zip
+
 This repository contains a Java program developed as part of a programming project. The purpose of the project is to demonstrate Java programming concepts and practical implementation.
 
 🛠️ Technologies Used
