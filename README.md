@@ -1,5 +1,5 @@
 # Reposit1
-☕ Java Program
+HTML & CSS
 📌 About the Project
 
 Link: https://github.com/lipavec9/Reposit1/blob/main/Naloga7.zip
@@ -7,20 +7,16 @@ Link: https://github.com/lipavec9/Reposit1/blob/main/Naloga7.zip
 This repository contains a Java program developed as part of a programming project. The purpose of the project is to demonstrate Java programming concepts and practical implementation.
 
 🛠️ Technologies Used
-Java – main programming language
+HTML & CSS
 Git & GitHub – version control and project hosting
-
-Open the project in your preferred Java IDE.
-Compile and run the program.
-
-Replace Main.java with the name of your main Java file if necessary.
 
 The structure may vary depending on your project.
 
 ✨ Features
-Written in Java
+Written in html
 Simple and easy-to-understand structure
 Demonstrates fundamental programming concepts
+
 👨‍💻 Author
 
 lipavec9
